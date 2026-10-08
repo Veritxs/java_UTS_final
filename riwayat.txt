@@ -1,0 +1,6 @@
+TRX|TRX20261008234814274|08-10-2026 23:48:14|JNE|Transfer Bank|benedict@gmail.com|benedict|089781829|ben|Greengarden|toko@example.com|Admin Toko|081234567890|admin|Toko Alas Kaki & Kaos Kaki|Jl. Contoh No. 1
+ITEM|KAOSKAKI|KK001|M|Hitam|75000.0|Nike|Sport|-
+ITEM|KAOSKAKI|KK001|M|Hitam|75000.0|Nike|Sport|-
+ITEM|KAOSKAKI|KK001|M|Hitam|75000.0|Nike|Sport|-
+ITEM|KAOSKAKI|KK001|M|Hitam|75000.0|Nike|Sport|-
+ITEM|KAOSKAKI|KK001|M|Hitam|75000.0|Nike|Sport|-

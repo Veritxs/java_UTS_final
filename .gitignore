@@ -1,0 +1,7 @@
+# Java compilation output
+*.class
+out/
+bin/
+
+# Generated receipt files
+struk/
